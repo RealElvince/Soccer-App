@@ -7,7 +7,7 @@ import 'package:soccerapp/models/soccer_model.dart';
 class SoccerApi {
   final String apiUrl = 'https://v3.football.api-sports.io/fixtures?live=all';
 
-  static const apiKey = 'aaf934251amsh57abd01da53cbfap15796ajsnbb7eec4940d5';
+  static const apiKey = '';
 
   static const headers = {
     'x-rapidapi-host': 'v3.football.api-sports.io',
